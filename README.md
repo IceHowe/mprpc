@@ -1,4 +1,4 @@
-# mpRPC
+# mprpc
 ## 项目介绍
 该项目是一个基于muduo、Protobuf和Zookeeper实现的轻量级分布式RPC网络通信框架。
 
